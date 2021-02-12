@@ -576,8 +576,11 @@ section.form-sec .banner-col.form-col .form-btn a {
     section.our-facility-sec .our-facility-slider .img-col {
         margin-bottom: 7px;
     } 
-    section.self-recovery-sec ul li h3 {
-        font-size: 16px;
+     section.self-recovery-sec ul li h3 {
+        font-size: 13px;
+    }
+    section.self-recovery-sec ul li::before {
+        margin-right: 8px;
     }
     .banner-col.form-col form h3 {
         font-size: 20px;
